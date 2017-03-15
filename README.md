@@ -1,1 +1,0 @@
-# textmining_try1
